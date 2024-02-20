@@ -1,6 +1,7 @@
 import random
 
 print("Welcome to the random team allocator!")
+
 print("\n")
 
 players = ["Martin", "Craig", "Sue", 
